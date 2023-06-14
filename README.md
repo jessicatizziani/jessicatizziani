@@ -15,6 +15,12 @@ Neste repositório, você encontrará uma variedade de projetos que mostram minh
 💡 **Modelagem preditiva:** testemunhe a mágica da modelagem preditiva enquanto emprega técnicas de aprendizado de máquina para prever resultados e tendências futuras.
 
 
-- 👩‍💻 **Atualmente, foco em:** 
+## 👩‍💻 **Atualmente, foco em:** 
 <div display="inline">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+## Onde me encontrar? 
+<a href="https://www.linkedin.com/in/jessicatizziani/">
+ <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>
+<a href="https://medium.com/@jehtizziani">
+ <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>
