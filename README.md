@@ -1,23 +1,16 @@
-# 💬**Olá, meu nome é Jéssica!** Bem-vindo(a) ao meu repositório! 👋
- Aqui você encontrará uma interessante coleção de projetos focados em análise de dados e Machine Learn.
+#💬 Olá, eu sou a Jéssica!
+Seja bem-vindo(a) ao meu repositório! 👋
+Aqui você vai encontrar alguns dos meus projetos relacionados a análise de dados e machine learning. Estou sempre aprendendo e buscando soluções práticas para problemas reais.
 
+##🚀 O que você pode esperar
+Análise exploratória de dados: explorando e entendendo dados para tirar conclusões significativas.
 
-## O que esperar  🚀
-Neste repositório, você encontrará uma variedade de projetos que mostram minha experiência em análise de dados. Da análise e visualização exploratória de dados à modelagem preditiva e aprendizado de máquina, eu me esforço para fornecer soluções valiosas e descobrir padrões ocultos nos dados.
+- Visualização de dados: tentando transformar dados complexos em algo fácil de entender e explorar.
+- Modelagem preditiva: aplicando algumas técnicas de machine learning para tentar prever o futuro.
+- Análise estatística: usando as ferramentas certas para entender melhor os dados e tomar decisões mais informadas.
 
-## Destaques do repositório  ✨
-📈 **Visualização de dados:** explore representações visuais impressionantes de dados que tornam informações complexas fáceis de entender e interagir.
-
-🔍 **Análise exploratória de dados:** mergulhe nas profundezas dos dados para extrair insights significativos e descobrir padrões intrigantes.
-
-📊 **Análise estatística:** aproveite o poder das estatísticas para obter uma compreensão mais profunda dos dados e tomar decisões informadas.
-
-💡 **Modelagem preditiva:** testemunhe a mágica da modelagem preditiva enquanto emprega técnicas de aprendizado de máquina para prever resultados e tendências futuras.
-
-
-## 👩‍💻 **Atualmente, foco em:** 
-<div display="inline">
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+##✨ Atualmente, meu foco está em:
+<div style="display: flex; align-items: center; gap: 10px;"> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" title="Databricks"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL"/> </div>
 
 ## Onde me encontrar? 
 <a href="https://www.linkedin.com/in/jessicatizziani/">
