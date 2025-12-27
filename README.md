@@ -1,6 +1,6 @@
 # 💬 Olá, eu sou a Jéssica!
 Seja bem-vindo(a) ao meu repositório! 👋
-Aqui você vai encontrar alguns dos meus projetos relacionados a análise de dados e machine learning. Estou sempre aprendendo e buscando soluções práticas para problemas reais.
+Aqui você vai encontrar alguns dos meus projetos relacionados a análise de dados e machine learning. 
 
 ## 🚀 O que você pode esperar
 Análise exploratória de dados: explorando e entendendo dados para tirar conclusões significativas.
