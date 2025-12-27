@@ -3,8 +3,8 @@ Seja bem-vindo(a) ao meu repositório! 👋
 Aqui você vai encontrar alguns dos meus projetos relacionados a análise de dados e machine learning. 
 
 ## 🚀 O que você pode esperar
-Análise exploratória de dados: explorando e entendendo dados para tirar conclusões significativas.
 
+- Análise exploratória de dados.
 - Visualização de dados: tentando transformar dados complexos em algo fácil de entender e explorar.
 - Modelagem preditiva: aplicando algumas técnicas de machine learning para tentar prever o futuro.
 - Análise estatística: usando as ferramentas certas para entender melhor os dados e tomar decisões mais informadas.
