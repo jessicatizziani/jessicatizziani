@@ -2,7 +2,7 @@
 Seja bem-vindo(a) ao meu repositório! 👋
 Aqui você vai encontrar alguns dos meus projetos relacionados a análise de dados e machine learning. 
 
-## 🚀 O que você pode esperar
+## 🚀 O que você pode esperar:
 
 - Análise exploratória de dados.
 - Visualização de dados: tentando transformar dados complexos em algo fácil de entender e explorar.
