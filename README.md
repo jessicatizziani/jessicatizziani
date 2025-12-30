@@ -1,18 +1,108 @@
-# 💬 Olá, eu sou a Jéssica!
-Seja bem-vindo(a) ao meu repositório! 👋
-Aqui você vai encontrar alguns dos meus projetos relacionados a análise de dados e machine learning. 
+# 👩‍💻 Jéssica Tizziani  
+### Análise de Dados | Engenharia de Dados | BI aplicado à Saúde
 
-## 🚀 O que você pode esperar
+👋 Olá! Seja bem-vindo(a) ao meu portfólio de projetos.
 
-- Análise exploratória de dados.
-- Visualização de dados: tentando transformar dados complexos em algo fácil de entender e explorar.
-- Modelagem preditiva: aplicando algumas técnicas de machine learning para tentar prever o futuro.
-- Análise estatística: usando as ferramentas certas para entender melhor os dados e tomar decisões mais informadas.
+Sou profissional com mais de **10 anos de experiência na área da saúde**, atuando hoje na interseção entre **dados, tecnologia e apoio à gestão**.  
+Aqui você encontrará projetos que refletem minha forma de trabalhar: **dados com contexto, análise com propósito e soluções orientadas à tomada de decisão**.
 
-<div style="display: flex; align-items: center; gap: 10px;"> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original-wordmark.svg" title="Databricks"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL"/> </div>
+---
 
-## Onde me encontrar? 
-<a href="https://www.linkedin.com/in/jessicatizziani/">
- <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>
-<a href="https://medium.com/@jehtizziani">
- <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>
+## 🧠 Sobre mim
+
+Atualmente, atuo com:
+- Desenvolvimento de **relatórios personalizados**
+- **Análises de dados exploratórias e estratégicas**
+- Construção e manutenção de **KPIs**
+- **Visualização de dados** voltada para organizações da área da saúde
+
+Sou **pós-graduanda em Engenharia de Dados e Inteligência Artificial**, com foco em projetos que envolvem:
+- ETL e organização de dados
+- Visualização interativa
+- Estatística aplicada
+- Suporte à decisão baseada em dados
+
+Minha trajetória une **conhecimento de negócio da saúde** com **fundamentos técnicos sólidos**, buscando sempre gerar impacto real.
+
+---
+
+## 🚀 O que você vai encontrar neste repositório
+
+✔️ **Análise Exploratória de Dados (EDA)**  
+Entendimento profundo dos dados, identificação de padrões, outliers e insights acionáveis.
+
+✔️ **Visualização de Dados e Dashboards**  
+Transformando dados complexos em visualizações claras, intuitivas e estratégicas.
+
+✔️ **Modelagem Preditiva e Machine Learning**  
+Aplicação de algoritmos para previsão, classificação e suporte à decisão.
+
+✔️ **Análise Estatística Aplicada**  
+Uso de métodos estatísticos para embasar decisões e validar hipóteses.
+
+✔️ **Projetos com foco em negócio**  
+Especialmente voltados para **gestão, indicadores e performance na área da saúde**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 🔹 Dados & Programação
+- **Python**
+- **SQL**
+- **Excel / Google Sheets**
+- **ETL e organização de dados**
+- **CRISP-DM**
+
+### 🔹 Business Intelligence & Visualização
+- **Power BI**
+- **Qlik Sense**
+- Dashboards estratégicos e customizados
+- Data Storytelling
+
+### 🔹 Engenharia & Plataformas
+- **Microsoft Azure**
+- **Databricks**
+- Versionamento com **Git**
+
+### 🔹 Metodologias & Soft Skills
+- **SCRUM | Kanban | OKR**
+- Comunicação com stakeholders
+- Storytelling com dados
+- Apresentações executivas (Canva, PowerPoint)
+
+---
+
+## 🩺 Foco de Atuação
+
+📊 **Dados aplicados à Saúde**  
+📈 **Indicadores e apoio à gestão**  
+🧩 **Integração entre tecnologia e negócio**  
+🎯 **Decisões orientadas por dados**
+
+---
+
+## 📂 Estrutura dos Projetos
+
+Cada projeto deste repositório contém:
+- 📌 Contexto do problema
+- 📌 Objetivos de negócio
+- 📌 Metodologia aplicada
+- 📌 Análises e visualizações
+- 📌 Principais insights e conclusões
+
+---
+
+## 🌐 Onde me encontrar
+
+<a href="https://www.linkedin.com/in/jessicatizziani/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://medium.com/@jehtizziani" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+
+---
+
+✨ *Dados fazem sentido quando contam uma história — e melhor ainda quando ajudam a tomar decisões melhores.*
